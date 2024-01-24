@@ -12,7 +12,7 @@
     "serve-prefix-paths": "gatsby serve --prefix-paths"
   },
   "dependencies": {
-    "gatsby": "^2.32.7",
+    "gatsby": "^5.13.2",
     "gatsby-plugin-meta-redirect": "^1.1.1",
     "gatsby-theme-doctornpm": "^1.8.0",
     "react": "^16.14.0",
